@@ -3,17 +3,17 @@
 
 > ### Progress
 >
-> - [] 1) Introduction
-> - [] 2) Data Types
-> - [] 3) Booleans, Operators, Date
-> - [] 4) Conditionals
-> - [] 5) Arrays
-> - [] 6) Loops
-> - [] 7) Functions
-> - [] 8) Objects
-> - [] 9) Higher Order Functions
-> - [] 10) Sets and Maps
-> - [] 11) [Destructuring and Spreading
+> - [ ] 1) Introduction
+> - [ ] 2) Data Types
+> - [ ] 3) Booleans, Operators, Date
+> - [ ] 4) Conditionals
+> - [ ] 5) Arrays
+> - [ ] 6) Loops
+> - [ ] 7) Functions
+> - [ ] 8) Objects
+> - [ ] 9) Higher Order Functions
+> - [ ] 10) Sets and Maps
+> - [ ] 11) [Destructuring and Spreading
 > - [ ] 12) Regular Expressions 
 > - [ ] 13) Console Object Methods
 > - [ ] 14) Error Handling
