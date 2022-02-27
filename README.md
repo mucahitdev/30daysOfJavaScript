@@ -1,5 +1,7 @@
 # 30daysOfJavaScript
 
+I started [this challenge](https://github.com/Asabeneh/30-Days-Of-JavaScript) on February 27, 2022.
+
 
 > ### Progress
 >
