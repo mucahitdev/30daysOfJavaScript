@@ -6,7 +6,7 @@ I started [this challenge](https://github.com/Asabeneh/30-Days-Of-JavaScript) on
 > ### Progress
 >
 > - [x] 1) Introduction
-> - [ ] 2) Data Types
+> - [x] 2) Data Types
 > - [ ] 3) Booleans, Operators, Date
 > - [ ] 4) Conditionals
 > - [ ] 5) Arrays
